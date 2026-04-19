@@ -10,8 +10,9 @@ A Python script that generates secure, formatted passwords with customizable len
   
 This can actually be used for passwords, I made it for fun, feel free to try it out.
 
-## Game screenshots
-<img width="288" height="60" alt="image" src="https://github.com/user-attachments/assets/edd2a9a1-5d4c-4e48-b12b-7fde76fcf971" />
+## Screenshot
+<img width="310" height="38" alt="image" src="https://github.com/user-attachments/assets/a49634c1-f3f6-403f-ab33-34d78f8ccd43" />
+
 
 ## How to run
 run the script:
