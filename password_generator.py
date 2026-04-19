@@ -13,7 +13,7 @@ def generate_password(length):
         raise ValueError('Length must be greater than 0')
 
     # a list of characters including numbers and letters
-    characters = string.ascii_letters + string.digits + string.punctuation   
+    characters = string.ascii_letters + string.digits 
     password = ''  
 
     # creating a random password with specified length
